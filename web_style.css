@@ -1,0 +1,21 @@
+.main_form{
+    background-color: rgba(10, 73, 146, 0.192);
+    padding: 20px;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+.client{
+    background-color: rgba(10, 73, 146, 0.034);
+    width: 30rem;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.answers{
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
